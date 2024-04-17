@@ -8,4 +8,5 @@
   <li>D'une plaque de test ou breadboard</li>
   <li>Des cables de connexions (jumpers)</li>
   <li>Une carte arduino (uno, mega, nano etc) ou compatible arduino</li>
+  <li>Sans oublier l'arduino IDE</li>
 </ul>
